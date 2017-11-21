@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cd02a3d-00c9-4bb1-9094-701935c898af" name="Default" comment="" />
+    <list default="true" id="a0389551-f744-4e76-a2e3-ed7fef701843" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,35 +12,48 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eec/eec/settings.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/85eec/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="254">
+              <caret line="92" column="47" lean-forward="false" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/eec/eec/control/models.py">
+      <file leaf-file-name="sac.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/85eec/sac.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="41" column="181" lean-forward="false" selection-start-line="41" selection-start-column="181" selection-end-line="41" selection-end-column="181" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;Calculadora Financeira\&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Página inicial\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n\n            \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;navbarDropdown1\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot;\n                   aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                    Cadastros\n                \&lt;\/a\&gt;\n                \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;navbarDropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;form\.html\&quot;\&gt;Empresa\&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;list\.html\&quot;\&gt;Fonecedor\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Cliente\&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Terceiros\&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/li\&gt;\n            \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;navbarDropdown2\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot;\n                   aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                    Controle de cheques\n                \&lt;\/a\&gt;\n                \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;navbarDropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Receber\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Emitir\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Repassar\&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\n\n\&lt;div class\=\&quot;container\&quot; \&gt;\n    \&lt;div class\=\&quot;row\&quot;\&gt;\n    \&lt;div class\=\&quot;alert alert\-danger\&quot; role\=\&quot;alert\&quot;\&gt;\n        Você possui cheques sem fundo\. \&lt;strong\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;alert\-danger\&quot;\&gt;Confira aqui\&lt;\/a\&gt;\&lt;\/strong\&gt;\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;row\&quot; style\=\&quot;margin\-bottom\: 15px\;\&quot;\&gt;\n        \&lt;div class\=\&quot;col\-lg\-6\&quot;\&gt;\n            \&lt;div class\=\&quot;card\&quot;\&gt;\n                \&lt;div class\=\&quot;card\-body\&quot;\&gt;\n                    \&lt;canvas id\=\&quot;myChart\&quot; height\=\&quot;100\&quot;\&gt;\&lt;\/canvas\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;col\-lg\-6\&quot;\&gt;\n            \&lt;div class\=\&quot;card\&quot;\&gt;\n                \&lt;div class\=\&quot;card\-body\&quot; style\=\&quot;display\: flex\; justify\-content\: space\-around\;\&quot;\&gt;\n                    \&lt;div class\=\&quot;alert alert\-success\&quot; role\=\&quot;alert\&quot;\&gt;\n                        \&lt;label\&gt;total de recebimentos\&lt;\/label\&gt;\n                        \&lt;h4\&gt;R\$ 1145\,60  \&lt;i class\=\&quot;fa fa\-arrow\-down\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/h4\&gt;\n                    \&lt;\/div\&gt;\n                     \&lt;div class\=\&quot;alert alert\-danger\&quot; role\=\&quot;alert\&quot;\&gt;\n                        \&lt;label\&gt;total de pagamentos\&lt;\/label\&gt;\n                        \&lt;h4\&gt;R\$ 1145\,60  \&lt;i class\=\&quot;fa fa\-arrow\-up\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/h4\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;jumbotron\&quot;\&gt;\n        \&lt;h1 class\=\&quot;display\-4 lead\&quot;\&gt;Olá \&lt;strong\&gt;Gabriel\&lt;\/strong\&gt;\, bem\-vindo\!\&lt;\/h1\&gt;\n        \&lt;p class\=\&quot;lead\&quot;\&gt;Hoje é um ótimo dia para realizar vendas\. Este é o seu painel de controle e nesta tela você\n            terá acesso à informações importantes do seu negócio\.\&lt;\/p\&gt;\n        \&lt;hr class\=\&quot;my\-4\&quot;\&gt;\n        \&lt;p class\=\&quot;\&quot;\&gt;Caso você tenha um cheque em mãos você pode utilizar esta aplicação para\:\&lt;\/p\&gt;\n        \&lt;p class\=\&quot;lead\&quot;\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Receber cheque\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Emitir cheque\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Repassar cheque\&lt;\/a\&gt;\n        \&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@silasiebert\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;UDESC \| CEAVI \| 85MAN \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;\n  var ctx \= document\.getElementById\(\&quot;myChart\&quot;\)\;\n  var myChart \= new Chart\(ctx\, \{\n      type\: \'bar\'\,\n      data\: \{\n          labels\: \[\&quot;Red\&quot;\, \&quot;Blue\&quot;\, \&quot;Yellow\&quot;\, \&quot;Green\&quot;\, \&quot;Purple\&quot;\, \&quot;Orange\&quot;\]\,\n          datasets\: \[\{\n              label\: \'\# of Votes\'\,\n              data\: \[12\, 19\, 3\, 5\, 2\, 3\]\,\n              backgroundColor\: \[\n                  \'rgba\(255\, 99\, 132\, 0\.2\)\'\,\n                  \'rgba\(54\, 162\, 235\, 0\.2\)\'\,\n                  \'rgba\(255\, 206\, 86\, 0\.2\)\'\,\n                  \'rgba\(75\, 192\, 192\, 0\.2\)\'\,\n                  \'rgba\(153\, 102\, 255\, 0\.2\)\'\,\n                  \'rgba\(255\, 159\, 64\, 0\.2\)\'\n              \]\,\n              borderColor\: \[\n                  \'rgba\(255\,99\,132\,1\)\'\,\n                  \'rgba\(54\, 162\, 235\, 1\)\'\,\n                  \'rgba\(255\, 206\, 86\, 1\)\'\,\n                  \'rgba\(75\, 192\, 192\, 1\)\'\,\n                  \'rgba\(153\, 102\, 255\, 1\)\'\,\n                  \'rgba\(255\, 159\, 64\, 1\)\'\n              \]\,\n              borderWidth\: 1\n          \}\]\n      \}\,\n      options\: \{\n          scales\: \{\n              yAxes\: \[\{\n                  ticks\: \{\n                      beginAtZero\:true\n                  \}\n              \}\]\n          \}\n      \}\n  \}\)\;\n\n\n\&lt;\/script\&gt;\n\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\&quot;\&gt;Calculadora Financeira \&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistemas de Amortização\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\&lt;div class\=\&quot;container\&quot;\&gt;\n    \&lt;div class\=\&quot;row\&quot; style\=\&quot;margin\-top\: 25px\; margin\-bottom\: 25px\;\&quot;\&gt;\n        \&lt;h2\&gt;Dados iniciais\&lt;\/h2\&gt;\n       \&lt;p class\=\&quot;lead\&quot;\&gt;\n  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor\. Duis mollis\, est non commodo luctus\.\n\&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@kanandamayer\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Universidade do Estado de Santa Catarina \- 85EEC \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\&quot;\&gt;Sistemas de Amortização\&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistema Price\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n            \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistema SAC\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\&lt;div class\=\&quot;container\&quot;\&gt;\n    \&lt;div class\=\&quot;col\-md\-12\&quot; style\=\&quot;margin\-top\: 25px\; margin\-bottom\: 25px\;\&quot;\&gt;\n        \&lt;h2\&gt;Sistema Price\&lt;\/h2\&gt;\n\n        \&lt;p class\=\&quot;lead\&quot;\&gt;\n            O sistema de amortização price\, geralmente é utilizado quando as parcelas possuem o mesmo valor\.\n        \&lt;\/p\&gt;\n        \&lt;div class\=\&quot;alert alert\-warning\&quot; role\=\&quot;alert\&quot;\&gt;\n            As parcelas têm valor decrescente\? Isso é uma característica do sistema SAC\, para fazer a simulação utilizando este sistema \&lt;a href\=\&quot;sac\.html\&quot;\&gt;clique aqui\&lt;\/a\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;form\&gt;\n  \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n    \&lt;label for\=\&quot;exampleInputEmail1\&quot;\&gt;Email address\&lt;\/label\&gt;\n    \&lt;input type\=\&quot;email\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;exampleInputEmail1\&quot; aria\-describedby\=\&quot;emailHelp\&quot; placeholder\=\&quot;Enter email\&quot;\&gt;\n    \&lt;small id\=\&quot;emailHelp\&quot; class\=\&quot;form\-text text\-muted\&quot;\&gt;We\'ll never share your email with anyone else\.\&lt;\/small\&gt;\n  \&lt;\/div\&gt;\n  \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n    \&lt;label for\=\&quot;exampleInputPassword1\&quot;\&gt;Password\&lt;\/label\&gt;\n    \&lt;input type\=\&quot;password\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;exampleInputPassword1\&quot; placeholder\=\&quot;Password\&quot;\&gt;\n  \&lt;\/div\&gt;\n  \&lt;div class\=\&quot;form\-check\&quot;\&gt;\n    \&lt;label class\=\&quot;form\-check\-label\&quot;\&gt;\n      \&lt;input type\=\&quot;checkbox\&quot; class\=\&quot;form\-check\-input\&quot;\&gt;\n      Check me out\n    \&lt;\/label\&gt;\n  \&lt;\/div\&gt;\n  \&lt;button type\=\&quot;submit\&quot; class\=\&quot;btn btn\-primary\&quot;\&gt;Submit\&lt;\/button\&gt;\n\&lt;\/form\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@kanandamayer\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Universidade do Estado de Santa Catarina \- 85EEC \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eec/eec/settings.py" />
-        <option value="$PROJECT_DIR$/eec/eec/control/models.py" />
+        <option value="$PROJECT_DIR$/85eec/sac.html" />
+        <option value="$PROJECT_DIR$/85eec/index.html" />
       </list>
     </option>
   </component>
@@ -65,8 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -78,10 +89,6 @@
               <option name="myItemId" value="eec_control" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -93,46 +100,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="eec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="control" />
+              <option name="myItemId" value="85eec" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Cliente\Documents\GitHub\eec_control\eec\eec" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cliente\Documents\GitHub\eec_control\85eec" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -152,33 +135,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cd02a3d-00c9-4bb1-9094-701935c898af" name="Default" comment="" />
-      <created>1509297420839</created>
+      <changelist id="a0389551-f744-4e76-a2e3-ed7fef701843" name="Default" comment="" />
+      <created>1511047103473</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1509297420839</updated>
+      <updated>1511047103473</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -191,20 +174,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eec/eec/settings.py">
+    <entry file="file://$PROJECT_DIR$/85eec/sac.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="41" column="181" lean-forward="false" selection-start-line="41" selection-start-column="181" selection-end-line="41" selection-end-column="181" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eec/eec/control/models.py">
+    <entry file="file://$PROJECT_DIR$/85eec/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="254">
+          <caret line="92" column="47" lean-forward="false" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

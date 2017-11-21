@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Calculadora Financeira</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="">Sistemas de Amortização</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Sistema Price</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Sistema SAC</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="container">
+    <div class="col-md-12" style="margin-top: 25px; margin-bottom: 25px;">
+        <h2>Sistema Price</h2>
+
+        <p class="lead">
+            Também chamado de Sistema de Parcelas Fixas, ou Sistema Francês, é caracterizado por pagamentos mensais iguais, embutindo uma amortização crescente.
+        </p>
+        <div class="alert alert-warning" role="alert">
+            As parcelas têm valor decrescente? Isso é uma característica do sistema SAC, para fazer a simulação
+            utilizando este sistema <a href="sac.html">clique aqui</a>
+        </div>
+
+        <form>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Valor total</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                       placeholder="R$ 100.000,00">
+                <small id="emailHelp" class="form-text text-muted">Informe aqui o valor total do empréstimo
+                </small>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Entrada R$</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                               placeholder="R$ 20.000,00">
+                        <small id="emailHelp" class="form-text text-muted">Informe aqui o valor da entrada do empréstimo
+                        </small>
+                    </div>
+                </div>
+                <div class="col-md-2" style="text-align: center;"> <p class="lead ">ou</p> </div>
+                <div class="col-md-5">
+                    <div class="form-group ">
+                        <label for="exampleInputEmail1">Entrada %</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                               placeholder="20%">
+                        <small id="emailHelp" class="form-text text-muted">Informe aqui qual a % de entrada
+                        </small>
+                    </div>
+                </div>
+
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Número de parcelas</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                       placeholder="12">
+                <small id="emailHelp" class="form-text text-muted">Informe aqui a quantidade de parcelas
+                </small>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Calcular</button>
+            <button type="submit" class="btn btn-danger">Limpar</button>
+        </form>
+    </div>
+</div>
+<footer class="footer" style="margin-top: 50px;">
+    <div class="container" style="display:flex; justify-content: space-between;">
+        <span class="text-muted">Desenvolvido por @gabrielnaoto e @kanandamayer</span>
+        <span class="text-muted">Universidade do Estado de Santa Catarina - 85EEC </span>
+
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.bundle.js"></script>
+</body>
+</html>
