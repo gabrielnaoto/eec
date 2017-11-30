@@ -2,35 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0389551-f744-4e76-a2e3-ed7fef701843" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amort/core/classes/price.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amort/core/classes/sac.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amort/core/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amort/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_but_gold/price.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/css/base.css" afterPath="$PROJECT_DIR$/amort/static/css/base.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/css/font-awesome.css" afterPath="$PROJECT_DIR$/amort/static/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/amort/static/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/css/login.css" afterPath="$PROJECT_DIR$/amort/static/css/login.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/amort/static/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/amort/static/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/amort/static/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/amort/static/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/amort/static/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/amort/static/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/index.html" afterPath="$PROJECT_DIR$/amort/templates/template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/85eec/sac.html" afterPath="$PROJECT_DIR$/old_but_gold/sac.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/amort/core/classes/price.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/amort/core/classes/sac.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/price.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/sac.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old_but_gold/index.html" afterPath="$PROJECT_DIR$/amort/static/js/formula.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/settings.py" afterPath="$PROJECT_DIR$/amort/amort/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/urls.py" afterPath="$PROJECT_DIR$/amort/amort/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/wsgi.py" afterPath="$PROJECT_DIR$/amort/amort/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/static/css/base.css" afterPath="$PROJECT_DIR$/amort/static/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/base.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/changelists.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/changelists.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/fonts.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/forms.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/login.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/rtl.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/widgets.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/fonts/README.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/fonts/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/LICENSE" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/README.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/calendar-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/calendar-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-addlink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-addlink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-alert.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-alert.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-calendar.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-calendar.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-changelink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-changelink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-clock.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-clock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-deletelink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-deletelink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-no.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-no.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown-alt.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-yes.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-yes.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/inline-delete.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/inline-delete.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/search.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/search.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/selector-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/selector-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/sorting-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/sorting-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-add.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-add.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-arrowright.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-arrowright.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectFilter2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/calendar.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/cancel.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/cancel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/change_form.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/change_form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/core.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/jquery.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/popup_response.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/popup_response.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate_init.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate_init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/timeparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/urlify.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/urlify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/templates/index.html" afterPath="$PROJECT_DIR$/amort/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/templates/template.html" afterPath="$PROJECT_DIR$/amort/templates/template.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,48 +88,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amort/core/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amort/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amort/templates/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amort/core/urls.py">
+        <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="172">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -89,8 +106,40 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amort/amort/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1004">
-              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amort/amort/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="e#222#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,12 +147,31 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;Calculadora Financeira\&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Página inicial\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n\n            \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;navbarDropdown1\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot;\n                   aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                    Cadastros\n                \&lt;\/a\&gt;\n                \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;navbarDropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;form\.html\&quot;\&gt;Empresa\&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;list\.html\&quot;\&gt;Fonecedor\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Cliente\&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Terceiros\&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/li\&gt;\n            \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;navbarDropdown2\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot;\n                   aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                    Controle de cheques\n                \&lt;\/a\&gt;\n                \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;navbarDropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Receber\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Emitir\&lt;\/a\&gt;\n                    \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Repassar\&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\n\n\&lt;div class\=\&quot;container\&quot; \&gt;\n    \&lt;div class\=\&quot;row\&quot;\&gt;\n    \&lt;div class\=\&quot;alert alert\-danger\&quot; role\=\&quot;alert\&quot;\&gt;\n        Você possui cheques sem fundo\. \&lt;strong\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;alert\-danger\&quot;\&gt;Confira aqui\&lt;\/a\&gt;\&lt;\/strong\&gt;\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;row\&quot; style\=\&quot;margin\-bottom\: 15px\;\&quot;\&gt;\n        \&lt;div class\=\&quot;col\-lg\-6\&quot;\&gt;\n            \&lt;div class\=\&quot;card\&quot;\&gt;\n                \&lt;div class\=\&quot;card\-body\&quot;\&gt;\n                    \&lt;canvas id\=\&quot;myChart\&quot; height\=\&quot;100\&quot;\&gt;\&lt;\/canvas\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;col\-lg\-6\&quot;\&gt;\n            \&lt;div class\=\&quot;card\&quot;\&gt;\n                \&lt;div class\=\&quot;card\-body\&quot; style\=\&quot;display\: flex\; justify\-content\: space\-around\;\&quot;\&gt;\n                    \&lt;div class\=\&quot;alert alert\-success\&quot; role\=\&quot;alert\&quot;\&gt;\n                        \&lt;label\&gt;total de recebimentos\&lt;\/label\&gt;\n                        \&lt;h4\&gt;R\$ 1145\,60  \&lt;i class\=\&quot;fa fa\-arrow\-down\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/h4\&gt;\n                    \&lt;\/div\&gt;\n                     \&lt;div class\=\&quot;alert alert\-danger\&quot; role\=\&quot;alert\&quot;\&gt;\n                        \&lt;label\&gt;total de pagamentos\&lt;\/label\&gt;\n                        \&lt;h4\&gt;R\$ 1145\,60  \&lt;i class\=\&quot;fa fa\-arrow\-up\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/h4\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;jumbotron\&quot;\&gt;\n        \&lt;h1 class\=\&quot;display\-4 lead\&quot;\&gt;Olá \&lt;strong\&gt;Gabriel\&lt;\/strong\&gt;\, bem\-vindo\!\&lt;\/h1\&gt;\n        \&lt;p class\=\&quot;lead\&quot;\&gt;Hoje é um ótimo dia para realizar vendas\. Este é o seu painel de controle e nesta tela você\n            terá acesso à informações importantes do seu negócio\.\&lt;\/p\&gt;\n        \&lt;hr class\=\&quot;my\-4\&quot;\&gt;\n        \&lt;p class\=\&quot;\&quot;\&gt;Caso você tenha um cheque em mãos você pode utilizar esta aplicação para\:\&lt;\/p\&gt;\n        \&lt;p class\=\&quot;lead\&quot;\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Receber cheque\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Emitir cheque\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;btn btn\-outline\-primary btn\-lg\&quot; href\=\&quot;\#\&quot; role\=\&quot;button\&quot;\&gt;Repassar cheque\&lt;\/a\&gt;\n        \&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@silasiebert\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;UDESC \| CEAVI \| 85MAN \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;\n  var ctx \= document\.getElementById\(\&quot;myChart\&quot;\)\;\n  var myChart \= new Chart\(ctx\, \{\n      type\: \'bar\'\,\n      data\: \{\n          labels\: \[\&quot;Red\&quot;\, \&quot;Blue\&quot;\, \&quot;Yellow\&quot;\, \&quot;Green\&quot;\, \&quot;Purple\&quot;\, \&quot;Orange\&quot;\]\,\n          datasets\: \[\{\n              label\: \'\# of Votes\'\,\n              data\: \[12\, 19\, 3\, 5\, 2\, 3\]\,\n              backgroundColor\: \[\n                  \'rgba\(255\, 99\, 132\, 0\.2\)\'\,\n                  \'rgba\(54\, 162\, 235\, 0\.2\)\'\,\n                  \'rgba\(255\, 206\, 86\, 0\.2\)\'\,\n                  \'rgba\(75\, 192\, 192\, 0\.2\)\'\,\n                  \'rgba\(153\, 102\, 255\, 0\.2\)\'\,\n                  \'rgba\(255\, 159\, 64\, 0\.2\)\'\n              \]\,\n              borderColor\: \[\n                  \'rgba\(255\,99\,132\,1\)\'\,\n                  \'rgba\(54\, 162\, 235\, 1\)\'\,\n                  \'rgba\(255\, 206\, 86\, 1\)\'\,\n                  \'rgba\(75\, 192\, 192\, 1\)\'\,\n                  \'rgba\(153\, 102\, 255\, 1\)\'\,\n                  \'rgba\(255\, 159\, 64\, 1\)\'\n              \]\,\n              borderWidth\: 1\n          \}\]\n      \}\,\n      options\: \{\n          scales\: \{\n              yAxes\: \[\{\n                  ticks\: \{\n                      beginAtZero\:true\n                  \}\n              \}\]\n          \}\n      \}\n  \}\)\;\n\n\n\&lt;\/script\&gt;\n\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
       <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\&quot;\&gt;Calculadora Financeira \&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistemas de Amortização\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\&lt;div class\=\&quot;container\&quot;\&gt;\n    \&lt;div class\=\&quot;row\&quot; style\=\&quot;margin\-top\: 25px\; margin\-bottom\: 25px\;\&quot;\&gt;\n        \&lt;h2\&gt;Dados iniciais\&lt;\/h2\&gt;\n       \&lt;p class\=\&quot;lead\&quot;\&gt;\n  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor\. Duis mollis\, est non commodo luctus\.\n\&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@kanandamayer\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Universidade do Estado de Santa Catarina \- 85EEC \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
       <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;title\&gt;Calculadora Financeira\&lt;\/title\&gt;\n    \&lt;\!\-\- Required meta tags \-\-\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n    \&lt;\!\-\- Bootstrap CSS \-\-\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/css\/bootstrap\.min\.css\&quot;\n          integrity\=\&quot;sha384\-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/base\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/font\-awesome\.min\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-light bg\-light\&quot;\&gt;\n    \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\&quot;\&gt;Sistemas de Amortização\&lt;\/a\&gt;\n    \&lt;button class\=\&quot;navbar\-toggler\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarSupportedContent\&quot;\n            aria\-controls\=\&quot;navbarSupportedContent\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n        \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n    \&lt;\/button\&gt;\n\n    \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarSupportedContent\&quot;\&gt;\n        \&lt;ul class\=\&quot;navbar\-nav mr\-auto\&quot;\&gt;\n            \&lt;li class\=\&quot;nav\-item active\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistema Price\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n            \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;Sistema SAC\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\n\n\&lt;div class\=\&quot;container\&quot;\&gt;\n    \&lt;div class\=\&quot;col\-md\-12\&quot; style\=\&quot;margin\-top\: 25px\; margin\-bottom\: 25px\;\&quot;\&gt;\n        \&lt;h2\&gt;Sistema Price\&lt;\/h2\&gt;\n\n        \&lt;p class\=\&quot;lead\&quot;\&gt;\n            O sistema de amortização price\, geralmente é utilizado quando as parcelas possuem o mesmo valor\.\n        \&lt;\/p\&gt;\n        \&lt;div class\=\&quot;alert alert\-warning\&quot; role\=\&quot;alert\&quot;\&gt;\n            As parcelas têm valor decrescente\? Isso é uma característica do sistema SAC\, para fazer a simulação utilizando este sistema \&lt;a href\=\&quot;sac\.html\&quot;\&gt;clique aqui\&lt;\/a\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;form\&gt;\n  \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n    \&lt;label for\=\&quot;exampleInputEmail1\&quot;\&gt;Email address\&lt;\/label\&gt;\n    \&lt;input type\=\&quot;email\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;exampleInputEmail1\&quot; aria\-describedby\=\&quot;emailHelp\&quot; placeholder\=\&quot;Enter email\&quot;\&gt;\n    \&lt;small id\=\&quot;emailHelp\&quot; class\=\&quot;form\-text text\-muted\&quot;\&gt;We\'ll never share your email with anyone else\.\&lt;\/small\&gt;\n  \&lt;\/div\&gt;\n  \&lt;div class\=\&quot;form\-group\&quot;\&gt;\n    \&lt;label for\=\&quot;exampleInputPassword1\&quot;\&gt;Password\&lt;\/label\&gt;\n    \&lt;input type\=\&quot;password\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;exampleInputPassword1\&quot; placeholder\=\&quot;Password\&quot;\&gt;\n  \&lt;\/div\&gt;\n  \&lt;div class\=\&quot;form\-check\&quot;\&gt;\n    \&lt;label class\=\&quot;form\-check\-label\&quot;\&gt;\n      \&lt;input type\=\&quot;checkbox\&quot; class\=\&quot;form\-check\-input\&quot;\&gt;\n      Check me out\n    \&lt;\/label\&gt;\n  \&lt;\/div\&gt;\n  \&lt;button type\=\&quot;submit\&quot; class\=\&quot;btn btn\-primary\&quot;\&gt;Submit\&lt;\/button\&gt;\n\&lt;\/form\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot; style\=\&quot;display\:flex\; justify\-content\: space\-between\;\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Desenvolvido por \@gabrielnaoto e \@kanandamayer\&lt;\/span\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;Universidade do Estado de Santa Catarina \- 85EEC \&lt;\/span\&gt;\n\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot;\n        integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/popper\.js\/1\.12\.3\/umd\/popper\.min\.js\&quot;\n        integrity\=\&quot;sha384\-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/4\.0\.0\-beta\.2\/js\/bootstrap\.min\.js\&quot;\n        integrity\=\&quot;sha384\-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ\&quot;\n        crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Chart\.js\/2\.7\.0\/Chart\.bundle\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>margin</find>
+      <find>PMT</find>
+      <find>pmt</find>
+      <find />
+      <find>.format(2)</find>
+      <find>))</find>
+      <find>exports</find>
     </findStrings>
+    <replaceStrings>
+      <replace>padding</replace>
+      <replace>.toLocaleString('pt-BR',{ style: 'currency', currency: 'BRL' })</replace>
+      <replace>)</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,22 +181,34 @@
       <list>
         <option value="$PROJECT_DIR$/85eec/sac.html" />
         <option value="$PROJECT_DIR$/85eec/index.html" />
-        <option value="$PROJECT_DIR$/amort/amort/urls.py" />
         <option value="$PROJECT_DIR$/amort/core/classes/price.py" />
         <option value="$PROJECT_DIR$/amort/core/classes/sac.py" />
         <option value="$PROJECT_DIR$/amort/core/views.py" />
         <option value="$PROJECT_DIR$/amort/core/urls.py" />
-        <option value="$PROJECT_DIR$/amort/templates/index.html" />
-        <option value="$PROJECT_DIR$/amort/amort/settings.py" />
+        <option value="$PROJECT_DIR$/old_but_gold/css/base.css" />
+        <option value="$PROJECT_DIR$/amort/static/js/formula.js" />
+        <option value="$PROJECT_DIR$/amort/static/css/base.css" />
         <option value="$PROJECT_DIR$/amort/templates/template.html" />
+        <option value="$PROJECT_DIR$/amort/templates/index.html" />
+        <option value="$PROJECT_DIR$/amort/amort/urls.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/amort/amort/settings.py" />
+        <option value="$PROJECT_DIR$/amort/amort/wsgi.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1452" />
-    <option name="height" value="876" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -145,73 +225,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="old_but_gold" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eec_control" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="eec_control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eec_control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eec_control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eec_control" type="462c0819:PsiDirectoryNode" />
+              <item name="amort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eec_control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eec_control" type="462c0819:PsiDirectoryNode" />
+              <item name="amort" type="462c0819:PsiDirectoryNode" />
+              <item name="amort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/amort/amort/settings.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -233,25 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.settings">
-    <configuration default="false" name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amort/amort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="eec_control" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amort/amort/settings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Django server.eec">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,14 +341,51 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.settings" />
+    <configuration name="eec" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="amort.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cliente\Envs\eec\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="eec_control" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8001" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amort/amort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="eec_control" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amort/amort/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.eec" />
+      <item index="1" class="java.lang.String" itemvalue="Python.settings" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.settings" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -339,17 +401,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1452" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24721448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3026316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27631578" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -362,6 +425,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -370,16 +436,64 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/amort/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="70" lean-forward="false" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_but_gold/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/core/classes/price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_but_gold/price.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="15" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="89" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/core/classes/sac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#2209#2230#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/85eec/index.html" />
+    <entry file="file://$PROJECT_DIR$/85eec/sac.html" />
+    <entry file="file://$PROJECT_DIR$/85eec/index.html" />
+    <entry file="file://$PROJECT_DIR$/85eec/sac.html" />
     <entry file="file://$PROJECT_DIR$/old_but_gold/price.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -387,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="181" lean-forward="false" selection-start-line="41" selection-start-column="181" selection-end-line="41" selection-end-column="181" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,12 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="181" lean-forward="false" selection-start-line="41" selection-start-column="181" selection-end-line="41" selection-end-column="181" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -416,20 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="181" lean-forward="false" selection-start-line="41" selection-start-column="181" selection-end-line="41" selection-end-column="181" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old_but_gold/price.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -437,39 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amort/static/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amort/core/classes/sac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="65" lean-forward="true" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amort/core/classes/price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,34 +543,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_but_gold/price.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="15" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="89" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amort/amort/settings.py">
+    <entry file="file://$PROJECT_DIR$/amort/core/classes/sac.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1004">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amort/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/old_but_gold/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/core/classes/price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/static/js/formula.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amort/templates/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="39" column="98" lean-forward="false" selection-start-line="39" selection-start-column="98" selection-end-line="39" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1158">
+          <caret line="139" column="35" lean-forward="false" selection-start-line="139" selection-start-column="35" selection-end-line="139" selection-end-column="35" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2209#2230#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/amort/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/amort/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#222#231#0" expanded="true" />
           </folding>
         </state>
       </provider>

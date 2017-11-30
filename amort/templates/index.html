@@ -1,9 +1,183 @@
 {% extends 'template.html' %}
 
+{% block css %}
+    <style>
+        div.card {
+            margin: 20px;
+        }
+    </style>
+{% endblock %}
+
 {% block content %}
-{% if msg %}
-{{ msg }}
-{% else %}
-N tem mensagem p vc não
-{% endif %}
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Preencha as informações abaixo</h4>
+            <hr/>
+            <form>
+                <div class="form-row">
+                    <div class="form-group col-md-3">
+                        <label for="vp">Empréstimo R$</label>
+                        <input type="number" class="form-control" id="vp" placeholder="100.000,00" required>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label for="n">Número de parcelas</label>
+                        <input type="number" class="form-control" id="n" placeholder="12" required>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label for="i">Taxa de juros %</label>
+                        <input type="number" class="form-control" id="i" placeholder="0,5" required>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label>Sistema de amortização</label>
+                        <select id="sistema" class="form-control" required>
+                            <option value="1">Tabela Price (para veículos)</option>
+                            <option value="2">Tabela SAC (para imóveis)</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-4">
+                        <label>Forma de pagamento</label>
+                        <select id="pagamento" class="form-control" required>
+                            <option value="1">Antecipado (1 + N parcelas)</option>
+                            <option value="0">Postecipado (N parcelas)</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="button" class="btn btn-primary" onclick="validade()">Calcular</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="card" id="results" style="display: none">
+        <div class="card-body">
+            <h4 class="card-title">Resultado</h4>
+            <hr/>
+            <div>
+                <table class="table table-responsive-md">
+                    <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">PARCELA</th>
+                        <th scope="col">JUROS</th>
+                        <th scope="col">AMORTIZAÇÃO</th>
+                        <th scope="col">SALDO DEVEDOR</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+{% endblock %}
+
+{% block js %}
+    <script>
+        function validade() {
+            vp = $("#vp").val();
+            i = $("#i").val();
+            n = $("#n").val();
+
+            if (vp == '' || i == '' || n == '') {
+                swal(
+                    'Erro!',
+                    'É necessário informar todos os campos',
+                    'error'
+                )
+            } else {
+                calculate();
+                swal(
+                    'Sucesso!',
+                    'Os resultados foram calculados com sucesso',
+                    'success'
+                )
+            }
+        }
+
+
+        function calculate() {
+            $(".to-be-removed").detach();
+
+            vp = Number($("#vp").val());
+            i = Number($("#i").val());
+            n = Number($("#n").val());
+            sistema = Number($("#sistema").val());
+            pagamento = Number($("#pagamento").val());
+
+            rate = i / 100;
+            periods = n;
+            value = vp;
+            type = pagamento;
+
+            var payment = formulajs.PMT(rate, periods, value, 0, type) * -1;
+            var amort = vp / periods;
+
+            var sum_pmt = 0;
+            var sum_i = 0;
+            var sum_amort = 0;
+
+            if (pagamento == 0) {
+                var r_pmt = 0;
+                var r_i = 0;
+                var r_amort = 0;
+                var r_saldo = vp;
+                periods += 1;
+            } else {
+                if (sistema == 1) {
+                    var r_pmt = payment;
+                    var r_i = 0;
+                    var r_amort = r_pmt - r_i;
+                    var r_saldo = vp - r_amort;
+                }
+                if (sistema == 2) {
+                    var r_amort = amort;
+                    var r_i = 0;
+                    var r_pmt = r_amort + r_i;
+                    var r_saldo = vp - r_amort;
+                }
+            }
+
+            for (var a = 0; a < periods; a++) {
+                sum_pmt += r_pmt;
+                sum_i += r_i;
+                sum_amort += r_amort;
+
+                $("tbody").append("" +
+                    "<tr class=\"to-be-removed\">" +
+                    "<th scope=\"row\">" + a + "</th>" +
+                    "<td>" + r_pmt.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td>" +
+                    "<td>" + r_i.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td>" +
+                    "<td>" + r_amort.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td>" +
+                    "<td>" + r_saldo.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td></tr>");
+
+                if (sistema == 1) {
+                    r_pmt = payment;
+                    r_i = rate * r_saldo;
+                    r_amort = r_pmt - r_i;
+                    r_saldo = r_saldo - r_amort;
+                }
+                if (sistema == 2) {
+                    r_amort = amort;
+                    r_i = rate * r_saldo;
+                    r_pmt = r_amort + r_i;
+                    r_saldo = r_saldo - r_amort;
+                }
+            }
+            $("tbody").append("" +
+                "<tr class=\"to-be-removed\">" +
+                "<th scope=\"row\"> TOTAIS </th>" +
+                "<td>" + sum_pmt.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td>" +
+                "<td>" + sum_i.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) + "</td>" +
+                "<td colspan=\"2\">" + sum_amort.toLocaleString('pt-BR', {
+                    style: 'currency',
+                    currency: 'BRL'
+                }) + "</td></tr>");
+
+            $("#results").css("display", "block");
+        }
+    </script>
 {% endblock %}
