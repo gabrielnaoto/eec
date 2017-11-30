@@ -2,84 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0389551-f744-4e76-a2e3-ed7fef701843" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/amort/core/classes/price.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/amort/core/classes/sac.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/price.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_but_gold/sac.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/old_but_gold/index.html" afterPath="$PROJECT_DIR$/amort/static/js/formula.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/settings.py" afterPath="$PROJECT_DIR$/amort/amort/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/urls.py" afterPath="$PROJECT_DIR$/amort/amort/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/amort/wsgi.py" afterPath="$PROJECT_DIR$/amort/amort/wsgi.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/static/css/base.css" afterPath="$PROJECT_DIR$/amort/static/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/base.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/changelists.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/changelists.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/fonts.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/forms.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/login.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/rtl.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/css/widgets.css" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/css/widgets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/fonts/README.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/fonts/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/LICENSE" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/README.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/calendar-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/calendar-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-addlink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-addlink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-alert.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-alert.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-calendar.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-calendar.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-changelink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-changelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-clock.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-clock.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-deletelink.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-deletelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-no.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-no.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown-alt.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown-alt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-unknown.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-yes.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/icon-yes.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/inline-delete.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/inline-delete.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/search.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/search.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/selector-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/selector-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/sorting-icons.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/sorting-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-add.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-add.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-arrowright.svg" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/img/tooltag-arrowright.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectBox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/SelectFilter2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/actions.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/DateTimeShortcuts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/admin/RelatedObjectLookups.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/calendar.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/cancel.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/cancel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/change_form.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/change_form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/collapse.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/core.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/inlines.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/jquery.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/popup_response.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/popup_response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate_init.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/prepopulate_init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/timeparse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/urlify.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/urlify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/jquery/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterPath="$PROJECT_DIR$/amort/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/templates/index.html" afterPath="$PROJECT_DIR$/amort/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amort/templates/template.html" afterPath="$PROJECT_DIR$/amort/templates/template.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="154">
+              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -106,21 +30,31 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amort/amort/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="273">
+              <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+              <folding>
+                <element signature="e#309#318#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amort/amort/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-              <folding>
-                <element signature="e#222#231#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -190,11 +124,11 @@
         <option value="$PROJECT_DIR$/amort/static/css/base.css" />
         <option value="$PROJECT_DIR$/amort/templates/template.html" />
         <option value="$PROJECT_DIR$/amort/templates/index.html" />
-        <option value="$PROJECT_DIR$/amort/amort/urls.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/amort/amort/settings.py" />
         <option value="$PROJECT_DIR$/amort/amort/wsgi.py" />
+        <option value="$PROJECT_DIR$/amort/amort/settings.py" />
+        <option value="$PROJECT_DIR$/amort/amort/urls.py" />
       </list>
     </option>
   </component>
@@ -612,10 +546,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amort/amort/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -628,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -638,19 +580,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amort/amort/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="273">
+          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#309#318#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amort/amort/wsgi.py">
+    <entry file="file://$PROJECT_DIR$/amort/amort/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="e#222#231#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
