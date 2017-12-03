@@ -1,1 +1,1 @@
-web: gunicorn core.wsgi --log-file -
+web: gunicorn amort.wsgi --log-file -
