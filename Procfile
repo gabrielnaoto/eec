@@ -1,1 +1,1 @@
-web: gunicorn amort.wsgi --log-file -
+web: gunicorn amort.amort.wsgi --log-file -
