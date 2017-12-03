@@ -61,7 +61,7 @@ ROOT_URLCONF = 'amort.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['./templates'],
+        'DIRS': ['./amort/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
